@@ -1,0 +1,27 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "Week 18 Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakeradam07/scraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakeradam07/scraping/issues"
+  },
+  "homepage": "https://github.com/bakeradam07/scraping#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.8.7",
+    "morgan": "^1.9.1"
+  }
+}
